@@ -25,7 +25,7 @@ status-website:
   cname: up.buildnatively.com
   # baseUrl: /your-repo-name
   logoUrl: https://assets.website-files.com/62bd8e934faf6ce5b3598a38/62e2300fdded85813547f700_Group%2023905.svg
-  name: 
+  name: " "
   introTitle: "**Natively** is a no-code development tool that helps you create mobile applications in a few minutes."
   introMessage: 
   navbar:
