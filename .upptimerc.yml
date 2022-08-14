@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://assets.website-files.com/62bd8e934faf6ce5b3598a38/62e2300fdded85813547f700_Group%2023905.svg
   name: 
   introTitle: "**Natively** is a no-code development tool that helps you create mobile applications in a few minutes."
-  introMessage: Natively wraps(converts) your website/web app to the native mobile app by adding it to the embedded browser.
+  introMessage: 
   navbar:
     - title: Status
       href: /
