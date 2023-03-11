@@ -1,7 +1,7 @@
 url: $BUILDER_URL
-status: down
-code: 502
-responseTime: 82
-lastUpdated: 2023-03-11T03:59:34.450Z
+status: up
+code: 200
+responseTime: 116
+lastUpdated: 2023-03-11T04:25:55.573Z
 startTime: Sun Aug 14 2022 20:18:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
