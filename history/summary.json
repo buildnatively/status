@@ -4,19 +4,19 @@
     "url": "https://app.buildnatively.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.buildnatively.com.ico",
     "slug": "app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 820,
-    "timeWeek": 624,
-    "timeMonth": 669,
-    "timeYear": 827,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
+    "time": 851,
+    "timeDay": 3606,
+    "timeWeek": 1345,
+    "timeMonth": 866,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2023-03-22": 0
+      "2023-03-22": 61
     }
   },
   {
