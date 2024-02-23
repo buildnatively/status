@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 906,
-    "timeDay": 1107,
-    "timeWeek": 1375,
-    "timeMonth": 1388,
+    "time": 907,
+    "timeDay": 1039,
+    "timeWeek": 1324,
+    "timeMonth": 1381,
     "timeYear": 978,
     "dailyMinutesDown": {
       "2023-08-15": 18,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 317,
-    "timeDay": 466,
-    "timeWeek": 488,
-    "timeMonth": 344,
+    "timeDay": 354,
+    "timeWeek": 499,
+    "timeMonth": 316,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2023-03-24": 37,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1096,
-    "timeDay": 829,
-    "timeWeek": 731,
-    "timeMonth": 660,
-    "timeYear": 988,
+    "time": 1094,
+    "timeDay": 282,
+    "timeWeek": 638,
+    "timeMonth": 663,
+    "timeYear": 986,
     "dailyMinutesDown": {}
   },
   {
@@ -66,19 +66,18 @@
     "slug": "app-store-connect",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 417,
-    "timeDay": 6835,
-    "timeWeek": 2495,
-    "timeMonth": 1414,
+    "timeDay": 128,
+    "timeWeek": 2467,
+    "timeMonth": 1410,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2024-02-21": 17,
-      "2023-05-30": 64,
-      "2023-02-23": 34
+      "2023-05-30": 64
     }
   },
   {
@@ -92,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 415,
-    "timeWeek": 302,
-    "timeMonth": 286,
-    "timeYear": 298,
+    "time": 305,
+    "timeDay": 662,
+    "timeWeek": 373,
+    "timeMonth": 303,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   }
 ]
