@@ -47,19 +47,19 @@
     "url": "https://docs.buildnatively.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.buildnatively.com.ico",
     "slug": "documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1090,
-    "timeDay": 279,
-    "timeWeek": 418,
-    "timeMonth": 584,
-    "timeYear": 964,
+    "time": 1091,
+    "timeDay": 841,
+    "timeWeek": 541,
+    "timeMonth": 611,
+    "timeYear": 966,
     "dailyMinutesDown": {
-      "2024-03-06": 0
+      "2024-03-06": 24
     }
   },
   {
