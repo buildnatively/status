@@ -6,9 +6,9 @@
     "slug": "app",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 930,
     "timeDay": 1204,
@@ -16,7 +16,6 @@
     "timeMonth": 1462,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2024-03-06": 11,
       "2024-03-05": 24,
       "2023-08-15": 18,
       "2023-03-22": 104
@@ -48,18 +47,20 @@
     "url": "https://docs.buildnatively.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.buildnatively.com.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1089,
+    "time": 1090,
     "timeDay": 279,
     "timeWeek": 418,
     "timeMonth": 584,
     "timeYear": 964,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-06": 0
+    }
   },
   {
     "name": "AppStore Connect",
