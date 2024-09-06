@@ -1,7 +1,7 @@
 url: $BUILDER_URL
-status: up
-code: 200
-responseTime: 337
-lastUpdated: 2024-09-05T23:11:45.978Z
+status: down
+code: 502
+responseTime: 248
+lastUpdated: 2024-09-06T18:21:14.589Z
 startTime: 2022-08-14T20:18:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
