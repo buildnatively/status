@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1536,
-    "timeDay": 813,
-    "timeWeek": 881,
+    "time": 1531,
+    "timeDay": 845,
+    "timeWeek": 887,
     "timeMonth": 936,
-    "timeYear": 1546,
+    "timeYear": 1544,
     "dailyMinutesDown": {
       "2024-12-20": 28,
       "2024-05-08": 43,
@@ -34,10 +34,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 528,
-    "timeDay": 861,
-    "timeWeek": 404,
-    "timeMonth": 360,
+    "time": 529,
+    "timeDay": 345,
+    "timeWeek": 344,
+    "timeMonth": 361,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2024-09-06": 91
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 486,
-    "timeDay": 624,
-    "timeWeek": 616,
-    "timeMonth": 656,
-    "timeYear": 297,
+    "time": 483,
+    "timeDay": 822,
+    "timeWeek": 636,
+    "timeMonth": 661,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2025-01-08": 46,
       "2024-03-06": 24
@@ -76,13 +76,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 97,
-    "timeWeek": 124,
-    "timeMonth": 189,
+    "timeDay": 334,
+    "timeWeek": 164,
+    "timeMonth": 196,
     "timeYear": 304,
-    "dailyMinutesDown": {
-      "2024-02-21": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google Play Console",
@@ -96,8 +94,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 670,
-    "timeWeek": 285,
+    "timeDay": 154,
+    "timeWeek": 295,
     "timeMonth": 272,
     "timeYear": 304,
     "dailyMinutesDown": {}
