@@ -69,18 +69,20 @@
     "url": "https://appstoreconnect.apple.com/",
     "icon": "https://icons.duckduckgo.com/ip3/appstoreconnect.apple.com.ico",
     "slug": "app-store-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 85,
-    "timeWeek": 171,
-    "timeMonth": 174,
-    "timeYear": 235,
-    "dailyMinutesDown": {}
+    "time": 381,
+    "timeDay": 8745,
+    "timeWeek": 2325,
+    "timeMonth": 768,
+    "timeYear": 282,
+    "dailyMinutesDown": {
+      "2025-03-01": 0
+    }
   },
   {
     "name": "Google Play Console",
