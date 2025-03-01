@@ -69,19 +69,19 @@
     "url": "https://appstoreconnect.apple.com/",
     "icon": "https://icons.duckduckgo.com/ip3/appstoreconnect.apple.com.ico",
     "slug": "app-store-connect",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.98%",
     "time": 381,
-    "timeDay": 8745,
-    "timeWeek": 2325,
-    "timeMonth": 768,
+    "timeDay": 5899,
+    "timeWeek": 2089,
+    "timeMonth": 750,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-03-01": 0
+      "2025-03-01": 103
     }
   },
   {
