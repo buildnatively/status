@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.buildnatively.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1413,
-    "timeDay": 806,
-    "timeWeek": 727,
-    "timeMonth": 749,
-    "timeYear": 1238,
+    "time": 1412,
+    "timeDay": 871,
+    "timeWeek": 735,
+    "timeMonth": 751,
+    "timeYear": 1236,
     "dailyMinutesDown": {
       "2025-04-03": 69,
       "2024-12-20": 28
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 541,
-    "timeDay": 291,
-    "timeWeek": 261,
-    "timeMonth": 438,
-    "timeYear": 451,
+    "timeDay": 124,
+    "timeWeek": 244,
+    "timeMonth": 432,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2024-09-06": 91
     }
@@ -51,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 300,
-    "timeDay": 194,
+    "time": 299,
+    "timeDay": 312,
     "timeWeek": 322,
-    "timeMonth": 260,
+    "timeMonth": 265,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2025-01-08": 46
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 302,
-    "timeDay": 160,
-    "timeWeek": 199,
-    "timeMonth": 170,
+    "timeDay": 67,
+    "timeWeek": 184,
+    "timeMonth": 169,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2025-03-01": 103
@@ -92,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 275,
-    "timeWeek": 322,
+    "timeDay": 225,
+    "timeWeek": 241,
     "timeMonth": 302,
     "timeYear": 313,
     "dailyMinutesDown": {}
