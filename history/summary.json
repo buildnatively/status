@@ -4,7 +4,7 @@
     "url": "https://app.buildnatively.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.buildnatively.com.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 975,
     "timeYear": 1079,
     "dailyMinutesDown": {
+      "2025-09-29": 0,
       "2025-04-03": 69,
       "2024-12-20": 28
     }
